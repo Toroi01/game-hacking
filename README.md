@@ -9,7 +9,7 @@ Cheat tables / scripts to cheat at some games :)
     <li>GTA fingerprint: https://www.youtube.com/watch?v=ZAS6Bz3PNH8&list=PLEYQm8YUd-iFHPyL8ervSiwBh-9IGC_OP&index=3&t=0s</li>
   </ul>
   <ul>
-    <li>Darksburg 1.0: </li>
+    <li>Darksburg 1.0: https://youtu.be/OKJ0clL27A8 </li>
   </ul>
 
 </div>
