@@ -9,7 +9,7 @@ Cheat tables / scripts to cheat at some games :)
     <li>Darksburg 1.0: </li>
   </ul>
   <ul>
-    <li>Among Us v2020.9.22s: </li>
+    <li>Among Us v2020.9.22s: https://youtu.be/q1BeqHIESxc </li>
   </ul>
 
 </div>
